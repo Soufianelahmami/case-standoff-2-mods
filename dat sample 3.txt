@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Helper mod 1","desc":"Standoff 2 is a popular first-person shooter game that has gained a massive following around the world. Developed by Axlebolt, the game has gained popularity due to its intuitive gameplay,","photo":"https://iili.io/HShfMj1.jpg"},
+  {"title":"tips pack 2","desc":"incredible graphics, and highly customizable controls. However, like most online games, the players often want to take the game to the next level by unlocking additional features and customizations.","photo":"https://iili.io/HShf0vV.jpg"},
+  {"title":"how to use this app 3","desc":". In this regard, Standoff 2 mods have become increasingly popular among the players. These mods are unofficial modifications that players can use to unlock additional features, improve their gameplay, and customize the game to their liking.","photo":"https://iili.io/HShflYQ.png"},
+  {"title":"advice mod 4","desc":"However, the use of mods in online games has always been a contentious issue, and Standoff 2 is no exception.","photo":"https://iili.io/HShfc3x.webp"},
+  {"title":"advance pack 5","desc":"In this article, we will explore the world of Standoff 2 mods, their impact on the game, and the ethical implications of using them. We will also look at the various types of mods available for Standoff 2 and their features.","photo":"https://iili.io/HShf1yB.jpg"},
+  {"title":"tips mod 6","desc":"Standoff 2 mods are unofficial modifications created by third-party developers that allow players to unlock additional features and customizations not available in the original game. ","photo":"https://iili.io/HShfVZF.jpg"},
+  {"title":"tips pack 7","desc":"Mods can range from small modifications that improve gameplay to larger modifications that add entirely new features to the game. These modifications can be installed on any device running Standoff 2, including smartphones, tablets, and computers.","photo":"https://iili.io/HShfXCg.jpg"},
+  {"title":"how to use this app 8","desc":"There are several types of mods available for Standoff 2, each with its unique set of features. Here are some of the most popular mods available for Standoff 2.","photo":"https://iili.io/HShfGTP.jpg"}
    ]
  
 }
